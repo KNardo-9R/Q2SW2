@@ -1,0 +1,22 @@
+*{
+
+}
+
+h1{
+	text-align: center;
+}
+
+body{ 
+	background-color: mediumpurple;
+ }
+
+container{ 
+	background-color: lightseagreen;
+	padding: 15px;
+}
+h5{
+	text-align:center;
+	background-color: lightgrey;
+ 	color:whitesmoke;
+ 	padding:30px;
+ }
